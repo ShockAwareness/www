@@ -4,7 +4,7 @@ Our mission is to educate families and communities of the risk of worn or unsafe
 
 ## Donations
 
-## Click on the donate menu to donate to the cause of saving lives.
+- Click on the donate menu to donate to the cause of saving lives.
 
 ## Signs to look for when shocks become worn:
 
