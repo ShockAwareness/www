@@ -8,8 +8,8 @@ Our mission is to educate families and communities of the risk of worn or unsafe
 
 ## Signs to look for when shocks become worn:
 
-#. Excessive vibration.
-#. Delayed Stopping.
-#. Rocking and bouncing motion.
-#. Uneven tire wear.
-#. Difficult to drive when windy or on curvy roads.
+1. Excessive vibration.
+2. Delayed Stopping.
+3. Rocking and bouncing motion.
+4. Uneven tire wear.
+5. Difficult to drive when windy or on curvy roads.
