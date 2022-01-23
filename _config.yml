@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Welcome to shockawareness.org"
+description: "Our mission is to educate families and communities of the risk of worn or unsafe shocks.  We also provide grants for replacing worn shocks on vehicles, complete the application under the grant menu to apply."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
